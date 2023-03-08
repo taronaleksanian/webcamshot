@@ -24,7 +24,7 @@ To use the app, simply run it on your local machine and follow the instructions 
 
 ## Deployment
 
-The app is currently deployed and can be accessed at [INSERT DEPLOYMENT LINK HERE].
+The app is currently deployed and can be accessed at [https://beautiful-bombolone-6ce05d.netlify.app/](https://beautiful-bombolone-6ce05d.netlify.app/).
 
 ## Contributing
 
